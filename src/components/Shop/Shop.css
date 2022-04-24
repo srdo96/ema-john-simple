@@ -9,7 +9,9 @@
   gap: 40px;
   margin: 100px 50px;
 }
-
+.pagination button {
+  margin-right: 10px;
+}
 .cart-container {
   background-color: blanchedalmond;
 }
